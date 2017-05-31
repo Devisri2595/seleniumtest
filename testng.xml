@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="none">
+  
+ 
+  <test name="Test" >
+    <classes>
+     
+      <class name="com.seleniumtest.login.LoginSeleniumTest">
+        
+      </class>
+      
+    </classes>
+  </test>
+</suite>
